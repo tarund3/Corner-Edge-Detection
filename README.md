@@ -1,7 +1,3 @@
-# OpenCVHere is a template for your README file on GitHub for the code you provided, which detects lines and corners using OpenCV:
-
----
-
 # Lines and Corners Detection using OpenCV
 
 This repository contains a Python script for detecting lines and corners in an image using OpenCV. The program reads an image, detects edges, applies the Hough Transform to find line segments, and uses the Harris Corner Detector to identify corners. The final result is an image that highlights the detected lines in green and the corners in red.
