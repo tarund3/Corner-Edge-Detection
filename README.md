@@ -108,10 +108,10 @@ plt.show()
 Here's an example of an image before and after applying the detection algorithm:
 
 ### Input Image
-![Input Image](/content/my_image_opencv.jpg)
+![Input Image](my_image_opencv.jpg)
 
 ### Output Image
-![Output Image](/content/my_image_opencv_post.jpg)
+![Output Image](my_image_opencv_post.png)
 
 ## Contributing
 
